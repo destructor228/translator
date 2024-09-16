@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name" translatable="false">Calls Translator</string>
+
+    <string name="def_login" translatable="false">test</string>
+    <string name="def_pass" translatable="false">test</string>
+    <string name="def_server" translatable="false">192.168.0.12:8086</string>
+    <string name="button_save_name">применить</string>
+    <string name="def_hint"> "^_^" </string>
+    <string name="login">Login</string>
+    <string name="pass">Pass</string>
+    <string name="server">Server</string>
+    <string name="settings">Settings</string>
+    <string name="info">Info</string>
+
+
+</resources>

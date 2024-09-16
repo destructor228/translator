@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/item_info"
+        android:enabled="true"
+        android:icon="@drawable/ic_info"
+        android:onClick="onInfoClick"
+        android:title="@string/info"
+        android:visible="true"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/item_setting"
+        android:enabled="true"
+        android:icon="@drawable/ic_settings"
+        android:onClick="onSettingsClick"
+        android:title="@string/settings"
+        android:visible="true"
+        app:showAsAction="always" />
+</menu>
